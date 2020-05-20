@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Work remotely and live on a continuous journey"
 date: 2020-01-20 20:20:00 -0000
 categories: Glomad
